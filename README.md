@@ -7,4 +7,5 @@ Requires python binaries installed and executable in command-line. 🖥️
 
 Game was made as a very small project for an undergrad course. 🏫
 
+Download the .py file from the code section.
 Enjoy! 😃
