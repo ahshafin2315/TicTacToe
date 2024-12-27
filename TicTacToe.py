@@ -1,7 +1,7 @@
 import os
 from time import sleep
 import numpy as np
-from typing import Tuple, Optional, Union
+from typing import Tuple, Optional
 
 # Constants
 EMPTY = 0
