@@ -1,14 +1,14 @@
 # TicTacToe
+
 A basic TicTacToe game in a python script 🐸.
 
-Playable as a console based display game in any platform. 💻
-
-Requires python binaries installed and executable in command-line. 🖥️
-
-Game was made as a very small project for an undergrad course. 🏫
+ - Playable as a console based display game in any platform. 💻
+ - Requires python binaries installed and executable in command-line. 🖥️
+ - made as a very small project for an undergrad course. 🏫
 
 **Note:**
-This is an improved game version.
+***Updated game version from initial release.***\
+(Same game mechanics, improved efficiency. Organized, maintainable, easier to follow code flow.)
 
 1. Implemented numpy array for board representation
 2. Simplified winner checking logic using numpy operations
@@ -21,13 +21,10 @@ This is an improved game version.
 9. Better separation of concerns
 10. Cleaner console output
 
-The new version maintains the same game mechanics but is more efficient and maintainable.
-The numpy array operations make winner checking faster, and the code structure is more organized and easier to follow.
-
 To use this version, make sure to install numpy:
 ```bash
 pip install numpy
 ```
 
-Download the .py file from the code section.
+Download the `.py` file from the code section.
 Enjoy! 😃
